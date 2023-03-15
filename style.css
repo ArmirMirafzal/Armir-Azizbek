@@ -1,6 +1,14 @@
-body{
-    background: #efed40;
-    display: grid;
-    place-items: center;
-    height: 100vh;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 50px;
+  font-family: cursive;
+}
+
+body {
+  background: #efed40;
+  display: grid;
+  place-items: center;
+  height: 100vh;
 }
